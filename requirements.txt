@@ -1,0 +1,6 @@
+pygments-tiger
+sphinx
+sphinx_rtd_theme
+sphinxcontrib-programoutput
+colorama
+tqdm
